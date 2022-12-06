@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <name>Cambion</name>
+        <update version="0.1">
+        <file name="race-cambion.xml" url="C:\Users\alanb\Documents\5e Character Builder\custom\user\race-cambion.xml"/>
+        </update>
+    </info>
+  <element name="Cambion" type="Race" source="Homebrew" id="ID_HMBRW_RACE_CAMBION">
+    <description>
+      <span class="feature">Age.</span>Cambions mature at a faster rate than the children of mortals attaining immortality at the peak of their maturity.<br/>
+	  <span class="feature">Alignment</span>Cambions are born to be bad, with innately evil tendencies that can cause even the most devout mortal parent to abandon them leading them down a darker path, but if the parent of a cambion can holdfast and nurture the child they can become better than their nature. As evil, as they are ambitious many of them sway towards chaos or law depending on their fiendish parents, own wicked makeup.<br/>
+      <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br/>
+      <span class="feature">Darkvision.</span>You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.<br/>
+	<span class="feature">Fiend.</span>Your creature type is fiend, instead of humanoid.<br/>
+	<span class="feature">Fiendish Charm.</span>You can cast the charm person spell once at will with this trait, and you regain the ability to cast it this way when you finish a long rest. Charisma is your spellcasting ability for this spell.<br/>
+	<span class="feature">Fiendish Blessing.</span>The AC of the creature includes its Charisma bonus.<br/>
+      <span class="feature">Wings.</span>You have a flying speed of 60 feet. To use this speed, you can’t be wearing medium or heavy armor, or armor you are not proficient in.<br/>
+	<span class="feature">Otherworldly Resistance.</span>Though you may have been born and bound to the Material Plane you possess a natural resistance to the forces that permeate it. You are resistant to either cold, fire, lightning or poison damage. Once you choose this resistance you cannot choose another.<br/>
+     </description>
+    <rules>
+      <stat name="strength" value="4" />
+      <stat name="dexterity" value="4" />
+      <stat name="constitution" value="3" />
+      <stat name="intelligence" value="2" />
+      <stat name="wisdom" value="1" />
+      <stat name="charisma" value="3" />  
+      <stat name="innate speed" value="30" bonus="base"/>
+      <grant type="Vision" id="ID_VISION_DARKVISION" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <grant type="Language" id="ID_LANGUAGE_INFERNAL" />
+      <select type="Language" name="ID_LANGUAGE_ABYSSAL" />
+      <grant type="Racial Trait" id="ID_HMBRW_RACIAL_TRAIT_FIENDISH_FLIGHT" />
+        <rules>
+        <element>
+            <element name="Fiendish Flight" type="Racial Trait" souce="Homebrew" id="ID_HMBRW_RACIAL_TRAIT_FIENDISH_FLIGHT" />
+            <stat name="innate speed:fly" value="50" bonus="base" />
+            <description>
+                <p>Tapping into your fiendish heritage you've manifest leathery wings. You gain a flying speed of 60 feet.</p>
+            </description>
+        </element>
+        </rules>
+    </rules>
+  </element>
+</elements>
