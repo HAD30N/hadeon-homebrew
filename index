@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Hadeon's Homebrew</name>
+		<description>The homebrew creations made by Hadeon.</description>
+	</info>
+	<files>
+		<file name="race-cambion" url="https://github.com/HAD30N/race-cambion/blob/fc8054452dfe021cccd392acf2d20cf53df87afa/race-cambion.xml" />
+	</files>
+</index>
