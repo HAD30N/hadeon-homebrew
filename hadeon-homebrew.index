@@ -5,7 +5,7 @@
 		<description>The homebrew creations made by Hadeon.
 		</description>
 		<update version="0.1">
-			<file name="hadeon-homebrew.index" url="" />
+			<file name="hadeon-homebrew.index" url="https://raw.githubusercontent.com/HAD30N/race-cambion/main/hadeon-homebrew.index?token=GHSAT0AAAAAAB4BKDFXNYJ2DDRSHJHKB6MEY4X5TBA" />
 		</update>
 	</info>
 	<files>
