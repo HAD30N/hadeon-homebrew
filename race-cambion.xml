@@ -3,7 +3,7 @@
     <info>
         <name>Cambion</name>
         <update version="0.1">
-        <file name="race-cambion.xml" url="https://github.com/HAD30N/race-cambion/blob/fc8054452dfe021cccd392acf2d20cf53df87afa/race-cambion.xml"/>
+        <file name="race-cambion.xml" url="https://raw.githubusercontent.com/HAD30N/race-cambion/fc8054452dfe021cccd392acf2d20cf53df87afa/race-cambion.xml?token=GHSAT0AAAAAAB4BKDFW67MM6PDT6X3WB2DUY4X47WA"/>
         </update>
     </info>
   <element name="Cambion" type="Race" source="Homebrew" id="ID_HMBRW_RACE_CAMBION">
