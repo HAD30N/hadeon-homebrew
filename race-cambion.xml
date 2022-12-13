@@ -3,7 +3,7 @@
     <info>
         <name>Cambion</name>
         <update version="0.1">
-        <file name="race-cambion.xml" url="C:\Users\alanb\Documents\5e Character Builder\custom\user\race-cambion.xml"/>
+        <file name="race-cambion.xml" url="https://github.com/HAD30N/race-cambion/race-cambion.xml"/>
         </update>
     </info>
   <element name="Cambion" type="Race" source="Homebrew" id="ID_HMBRW_RACE_CAMBION">
