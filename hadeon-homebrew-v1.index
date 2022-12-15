@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <index>
 	<info>
-		<name>Hadeon Homebrew</name>
+		<name>Hadeon Homebrew Volume 1</name>
 		<description>The homebrew creations made by Hadeon.
 		</description>
 		<update version="0.1">
-			<file name="hadeon-homebrew.index" url="https://raw.githubusercontent.com/HAD30N/race-cambion/main/hadeon-homebrew.index" />
+			<file name="hadeon-homebrew-v1.index" url="https://raw.githubusercontent.com/HAD30N/race-cambion/main/hadeon-homebrew-v1.index" />
 		</update>
 	</info>
 	<files>
