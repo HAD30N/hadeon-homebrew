@@ -9,6 +9,7 @@
 		</update>
 	</info>
 	<files>
-		<file name="race-cambion" url="https://raw.githubusercontent.com/HAD30N/race-cambion/fc8054452dfe021cccd392acf2d20cf53df87afa/race-cambion.xml?token=GHSAT0AAAAAAB4BKDFW67MM6PDT6X3WB2DUY4X47WA" />
+		<file name="race-cambion" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/race-cambion.xml" />
+		<file name="homebrew-weapons" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/homebrew-weapons.xml"
 	</files>
 </index>
