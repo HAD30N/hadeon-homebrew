@@ -3,7 +3,7 @@
 	<info>
 		<name>Weapons</name>
 		<update version="0.0.4">
-			<file name="homebrew-weapons.xml" url="" />
+			<file name="homebrew-weapons.xml" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/homebrew-weapons.xml" />
 		</update>
 	</info>
   
