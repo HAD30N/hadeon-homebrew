@@ -10,6 +10,6 @@
 	</info>
 	<files>
 		<file name="race-cambion" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/race-cambion.xml" />
-		<file name="homebrew-weapons" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/homebrew-weapons.xml"
+		<file name="homebrew-weapons" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/homebrew-weapons.xml" />
 	</files>
 </index>
