@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Hadeon Homebrew</name>
+		<description>The content from the homebrew creations of Hadeon.</description>
+		<update version="0.2.5">
+			<file name="hadeon-homebrew.index" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/hadeon-homebrew.index" />
+		</update>
+	</info>
+	<files>
+		<file name="hadeon-homebrew-v1.index" url="https://raw.githubusercontent.com/HAD30N/hadeon-homebrew/main/hadeon-homebrew-v1.index" />
+	</files>
+</index>
